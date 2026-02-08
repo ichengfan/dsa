@@ -2,9 +2,9 @@
 <div align="center"> 数据结构与算法 （草案） </div>
 <div align="center"> (Data Structures and Algorithms)</div>
 <div align="center"> (C++11)</div>
+
 程帆                    chengfan85@gmail.com   
 沈赟                    yun.shen3@gmail.com
-</div>
 
 前言
 
